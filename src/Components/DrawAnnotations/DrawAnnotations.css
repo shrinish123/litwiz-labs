@@ -1,0 +1,22 @@
+.draw-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 30rem;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.icon:hover{
+    color: #4B4E9C;
+}

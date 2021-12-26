@@ -1,0 +1,17 @@
+.carousal-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.carousal-item-container{
+    margin-top: 3rem;
+    width: 10rem;
+    height:5rem;
+}
+
+.img-box{
+    width: 15rem;
+    height:10rem;
+}
